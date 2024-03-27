@@ -38,3 +38,9 @@ Feel free to experiment with different values to observe the impact on the flock
 ## Contributing
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## Additional Resources
+- [The Coding Train](https://youtu.be/mhjuuHl6qHM?si=3WackXyBw3TpxFlN)
+- [Hunter Adams Article](https://vanhunteradams.com/Pico/Animal_Movement/Boids-algorithm.html)
+- [Stanford University Article](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html)
+- [Original Article](https://www.red3d.com/cwr/boids/)
