@@ -31,7 +31,15 @@ This will compile and run the application, displaying a window with the simulate
 
 ## Configuration
 
-The application allows you to configure various parameters, such as the screen dimensions, maximum speed, and the number of boids in the flock. These values are defined as constants in `main.go`.
+The application allows you to configure various parameters, such as the screen dimensions, maximum speed, and the number of boids in the flock. These values are defined as constants in `main.go`
+
+## Run Docker Image
+If you have Docker installed, you can run the image in a web browser using the following commands:
+```bash
+docker run -p <DESIRED_PORT>:8080 -d actuallyvincent/boids-algo
+```
+
+The ```<DESIRED_PORT>``` can be any number, like 5001. You can then find the the project in a web browser by going to ```localhost:<DESIRED_PORT>```
 
 Feel free to experiment with different values to observe the impact on the flocking behavior.
 
